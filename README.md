@@ -1,6 +1,17 @@
 ### LEEHYUNBOK 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEEHYUNBOK&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=LEEHYUNBOK&fontSize=90)
+
+### 👋 Welcome
+``` java
+public class WelcomeGitHub {
+  public static void main(String[] args) {
+    System.out.println("Welcome, My GitHub");
+  }
+}
+```
+
+
 
 <h3 align="center">🌐 Tech Stack 🌐</h3>
 
@@ -21,9 +32,25 @@
 
 <br/>
 <h3 align="center">📧 Email 📧</h3>
-<center>
+<h5 align="center">
 
 [Email](mailto:l.hn.bk0905@gmail.com)
 
-</center>
+</h5>
 <br/>
+
+<h3 align="center">
+
+<h3 align="center">🏚️ Blog 🏚️</h3>
+<h5 align="center">
+
+[Blog](https://velog.io/@l_hn_bk)
+
+</h5>
+<br/>
+
+<h3 align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHYUNBOK&show_icons=true&theme=radical)
+
+</h3>
