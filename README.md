@@ -31,34 +31,27 @@ public class WelcomeGitHub {
 </p>
 
 <br/>
-<h3 align="center">📧 Email 📧</h3>
-<h5 align="center">
-
-[Email](mailto:l.hn.bk0905@gmail.com)
-
-</h5>
+<h3 align="center">📧 info 📧</h3>
+<h3 align="center">
+  <a href="mailto:l.hn.bk0905@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
+  </a>
+  <a href="mailto:l.hn.bk0905@gmail.com">
+      <img src="https://img.shields.io/badge/Blog-40AEF0?style=flat&logo=bloglovin&logoColor=#000000">
+  </a>
+</h3>
 <br/>
 
-<h3 align="center">
-
-<h3 align="center">🏚️ Blog 🏚️</h3>
-<h5 align="center">
-
-[Blog](https://velog.io/@l_hn_bk)
-
-</h5>
-<br/>
 
 <h3 align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHYUNBOK&show_icons=true&theme=radical)
-
+💡 
 </h3>
 
-<h3 align="center">
-
-💡 Problem Solve
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cdemc)](https://solved.ac/cdemc)
-
-</h3>
+<p align="center">
+    <a href="https://github.com/LEEHYUNBOK">
+        <img src="https://github-readme-stats.vercel.app/api?username=LEEHYUNBOK&show_icons=true&theme=radical">
+    </a>
+    <a href="https://solved.ac/cdemc/">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=cdemc">
+    </a>
+</p>
